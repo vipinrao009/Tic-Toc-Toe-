@@ -1,0 +1,15 @@
+.card{
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height: 120px;
+    width: 120px;
+    background-color:var(--yellow);
+}
+
+body{
+    background-color: black;
+}
